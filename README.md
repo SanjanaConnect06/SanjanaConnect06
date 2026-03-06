@@ -16,9 +16,10 @@
 </div>
 
 
+
 <div align="center">
 
-## 🌱 Currently Learning
+## 📚 Currently Working On
 
 <div align="left" style="display: inline-block; text-align: left;">
 
@@ -28,6 +29,8 @@
 </div>
 
 </div>
+
+
 
 ## 🛠️ Tech Stack & Expertise
 
