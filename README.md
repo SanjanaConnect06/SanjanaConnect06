@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Sanjana
+# Heyyy there 👋 I'm Sanjana
 
 <div align="center">
 
@@ -15,7 +15,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -29,7 +28,6 @@
 </div>
 
 </div>
----
 
 ## 🛠️ Tech Stack & Expertise
 
