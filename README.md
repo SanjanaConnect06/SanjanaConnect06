@@ -2,19 +2,33 @@
 
 # Hi there 👋 I'm Sanjana
 
+<div align="center">
+
+<div align="left" style="display: inline-block; text-align: left;">
+
 🎓 Second-Year Engineering Student (AI & ML)  
 💻 Passionate about Software Development, AI, and Web Technologies  
 🚀 Aspiring Full Stack Developer  
+⭐ Always learning, building, and growing as a developer.
 
-I enjoy building projects, learning new technologies, and improving my problem-solving skills through coding and development.
+</div>
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🌱 Currently Learning
 
-Data Structures and Algorithms  
-Java Programming  
-  
+<div align="left" style="display: inline-block; text-align: left;">
+
+- Data Structures and Algorithms  
+- Java Programming   
+
+</div>
+
+</div>
 ---
 
 ## 🛠️ Tech Stack & Expertise
@@ -34,31 +48,30 @@ Java Programming
 
 ### 📚 Concepts
 
-<img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge"/>
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
 <img src="https://img.shields.io/badge/Operating%20System-6C757D?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjanaConnect06&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SanjanaConnect06&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com/?user=SanjanaConnect06&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=SanjanaConnect06&theme=tokyonight&hide_border=true"/>
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn:[](https://www.linkedin.com/in/sanjana-m-980411329/)
+LinkedIn:[(https://www.linkedin.com/in/sanjana-m-980411329/)](https://www.linkedin.com/in/sanjana-m-980411329/)
 
 ---
-
-⭐ Always learning, building, and growing as a developer.
 
 </div>
