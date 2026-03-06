@@ -59,15 +59,11 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjanaConnect06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanjanaConnect06&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-<img height="180em" src="https://streak-stats.demolab.com?user=SanjanaConnect06&theme=tokyonight&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=SanjanaConnect06&theme=tokyonight)
 
 </div>
 
