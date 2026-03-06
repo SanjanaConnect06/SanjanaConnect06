@@ -19,24 +19,12 @@ I enjoy building projects, learning new technologies, and improving my problem-s
 
 ---
 
+
 ## 🛠 Tech Stack
 
-**Languages**
-- Java
-- Python
-- JavaScript
-
-**Web Development**
-- HTML
-- CSS
-- React.js
-- Node.js
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,git,github,vscode" />
+</p>
 ---
 
 ## 📊 GitHub Stats
