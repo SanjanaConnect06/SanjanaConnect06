@@ -59,8 +59,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanjanaConnect06&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SanjanaConnect06&show_icons=true&theme=tokyonight)
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SanjanaConnect06&theme=tokyonight)
