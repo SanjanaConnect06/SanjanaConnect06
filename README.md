@@ -11,10 +11,9 @@ I enjoy building projects, learning new technologies, and improving my problem-s
 ## 🛠️ Tech Stack & Expertise
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,10 +26,10 @@ I enjoy building projects, learning new technologies, and improving my problem-s
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📚 Concepts
-![Data Structures](https://img.shields.io/badge/Data_Structures-blue?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-orange?style=for-the-badge)
-![Operating_System](https://img.shields.io/badge/Operating_System-grey?style=for-the-badge)
-![Object_Oriented_Programming](https://img.shields.io/badge/Object_Oriented_Programming-purple?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Operating System](https://img.shields.io/badge/Operating%20System-6C757D?style=for-the-badge&logo=linux&logoColor=white)
+![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📊 GitHub Stats
 
