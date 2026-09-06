@@ -6,10 +6,10 @@
 
 <div align="left" style="display: inline-block; text-align: left;">
 
-🎓 Third-Year Engineering Student (AI & ML)  
-💻 Passionate about Software Development, AI, and Web Technologies  
-🚀 Aspiring Full Stack Developer  
-⭐ Always learning, building, and growing as a developer.
+🎓 Third-Year Engineering Student (AI & ML)<br>
+💻 Passionate about Software Development, AI, and Web Technologies<br>
+🚀 Aspiring Full Stack Developer<br>
+⭐ Always learning, building, and growing as a developer.<br>
 📖 Currently working on DSA and Java
 </div>
 
@@ -21,6 +21,16 @@
 ### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+
+### 📚 Concepts
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+<img src="https://img.shields.io/badge/Operating%20System-6C757D?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATABASE%20MANAGEMENT-4CAF50?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 
 ### 🌐 Web Development & Tools
@@ -40,15 +50,7 @@
 <img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 
-### 📚 Concepts
 
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
-<img src="https://img.shields.io/badge/Operating%20System-6C757D?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/DATABASE%20MANAGEMENT-4CAF50?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 ---
 <div align="center">
 
