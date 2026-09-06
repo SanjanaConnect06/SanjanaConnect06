@@ -38,6 +38,13 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyMuPDF-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
 ### 🌐 Web Development & Tools
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
