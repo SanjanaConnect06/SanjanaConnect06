@@ -6,7 +6,7 @@
 
 <div align="left" style="display: inline-block; text-align: left;">
 
-🎓 Second-Year Engineering Student (AI & ML)  
+🎓 Third-Year Engineering Student (AI & ML)  
 💻 Passionate about Software Development, AI, and Web Technologies  
 🚀 Aspiring Full Stack Developer  
 ⭐ Always learning, building, and growing as a developer.
@@ -58,21 +58,4 @@
 ---
 <div align="center">
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SanjanaConnect06&show_icons=true&theme=tokyonight)
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SanjanaConnect06&theme=tokyonight)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-LinkedIn:[(https://www.linkedin.com/in/sanjana-m-980411329/)](https://www.linkedin.com/in/sanjana-m-980411329/)
-
----
-
-</div>
