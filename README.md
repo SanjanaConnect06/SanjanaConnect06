@@ -10,26 +10,10 @@
 💻 Passionate about Software Development, AI, and Web Technologies  
 🚀 Aspiring Full Stack Developer  
 ⭐ Always learning, building, and growing as a developer.
-
+📖 Currently working on DSA and Java
 </div>
 
 </div>
-
-
-
-<div align="center">
-
-## 📚 Currently Working On
-
-<div align="left" style="display: inline-block; text-align: left;">
-
-- Data Structures and Algorithms  
-- Java Programming   
-
-</div>
-
-</div>
-
 
 
 ## 🛠️ Tech Stack & Expertise
@@ -38,12 +22,6 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 
-### 🤖 AI & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyMuPDF-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
 
 ### 🌐 Web Development & Tools
 
@@ -56,10 +34,11 @@
 <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 
 ### 📚 Concepts
 
@@ -73,6 +52,3 @@
 ---
 <div align="center">
 
-
-### 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SanjanaConnect06&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaConnect06&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
