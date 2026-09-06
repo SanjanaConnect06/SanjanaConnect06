@@ -28,7 +28,8 @@
 <img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
 <img src="https://img.shields.io/badge/Operating%20System-6C757D?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge&logo=java&logoColor=white"/> <br>
+  
 <img src="https://img.shields.io/badge/DATABASE%20MANAGEMENT-4CAF50?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
